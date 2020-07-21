@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: sunshine的博客 | BY Blog
+title: sunshine Blog
+SEOTitle: sunshine的博客 | sunshine Blog
 header-img: img/post-bg-desk.jpg
 email: chshlo6@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, sunshine的博客, chenshenglong, 陈生龙, hadoop, spark, flink"
+keyword: "sunshine, sunshine Blog, sunshine的博客, chenshenglong, 陈生龙, hadoop, spark, flink"
 url: "http://feature2018.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/feature2018/feature2018.github.io.git" # you code repository
